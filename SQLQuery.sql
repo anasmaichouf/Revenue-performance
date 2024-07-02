@@ -1,4 +1,3 @@
-DESKTOP-Q5ENFDR
 
 ALTER TABLE ServiceBranchDB..Service_Data
 ADD CONSTRAINT fk_branch_id
